@@ -1,0 +1,1 @@
+<div class="bg-info p-3"><p class="text-center">All Rights Reserved</p></div></div>
